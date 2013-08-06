@@ -1,3 +1,7 @@
+=====
+Added RTL Twitter BootSTrap and JQuery
+=====
+
 ========================
 django-twoscoops-project
 ========================
