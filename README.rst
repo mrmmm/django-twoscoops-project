@@ -1,6 +1,8 @@
 =====
-Added RTL Twitter BootSTrap and JQuery
+django-twoscoops-project with RTL support
 =====
+At this point it's just a fork of https://github.com/twoscoops/django-twoscoops-project replacing the default twitter bootstrap with this Right-to-Left (RTL) version https://github.com/jnaqsh/bootstrap.
+
 
 ========================
 django-twoscoops-project
